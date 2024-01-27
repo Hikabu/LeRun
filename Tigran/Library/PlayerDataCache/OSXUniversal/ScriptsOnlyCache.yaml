@@ -1,0 +1,64 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - ScaleFromAudioClip
+    - voice_detect
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Scene/Main.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1498}
+    - Class: 114
+      Script: {instanceID: 1500}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 997f385b099e9c70afed0ce8891b04e5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: voice_detect
+  - hash:
+      serializedVersion: 2
+      Hash: 05ae2d7023e914e40e546d0dac506e16
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ScaleFromAudioClip
+  platform: 2
+  scenePathNames:
+  - Assets/Scene/Main.unity
+  playerPath: /Users/mac/Desktop/New Unity Project/buildTest.app
